@@ -1,4 +1,4 @@
-# Food_ordering_website
+# Restaurant_website
 
 Used technology and language is HTML,CSS.
 
